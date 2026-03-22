@@ -1,5 +1,3 @@
-# enterprise-workforce-sql-analysis
-
 # Enterprise Workforce & Project Analytics
 
 ## 📌 Project Overview
